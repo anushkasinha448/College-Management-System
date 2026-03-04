@@ -1,2 +1,2 @@
 # College-Management-System
-This is a Java combined JDBC project for efficient college management system
+Developed a College Management System using Java, Swing, and JDBC to manage students, faculty, courses, departments, and records. Implemented CRUD operations, database connectivity, input validation, and exception handling with a relational database backend.
